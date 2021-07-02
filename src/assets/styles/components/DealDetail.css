@@ -1,0 +1,32 @@
+.deal_detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.deal_detail-container {
+  width: 400px;
+  height: 200px;
+  padding: 0 62px;
+  background-color: #2a475e;
+}
+
+.deal_detail-item {
+  margin: 15px 0;
+}
+
+.deal_detail-item-type {
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+.deal_detail-name {
+  color: #66c0f4;
+}
+
+.deal_detail-img {
+  height: 200px;
+  width: auto;
+}

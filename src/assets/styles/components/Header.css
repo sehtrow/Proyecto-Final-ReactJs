@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-options-item.active {
+  color: #66c0f4;
+}
+
+.nav-options-item {
+  margin-right: 350px;
+  font-size: 40px;
+  list-style-type: none;
+  font-weight: bold;
+}
+
+.nav-options-item:last-child {
+  margin-right: 0;
+}
+
+.nav-options-item:hover {
+  cursor: pointer;
+  color: #66c0f4;
+}
+
+.nav-options {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 0px 38px 0px;
+}
+
+.logo-img {
+  height: 180px;
+  width: auto;
+}

@@ -1,0 +1,66 @@
+.deal {
+  width: 300px;
+  margin: 25px;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.deal-title {
+  margin: 0;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 21px;
+}
+
+.img_deal {
+  width: 20rem;
+  height: 8rem;
+}
+
+.deal_details {
+  padding: 35px 15px 10px;
+  margin-top: -35px;
+  background-color: #2a475e;
+}
+
+.deal_item_default {
+  margin: 5px 0;
+}
+
+.deal_item_default-n {
+  color: #c7d5e0;
+  font-weight: bolder;
+}
+
+.deal_item_default-more {
+  text-align: end;
+}
+
+.deal_item_default-more:hover {
+  cursor: pointer;
+  color: #66c0f4;
+}
+
+.deal-wish-svg {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 119px;
+}
+
+.deal-wish-svg.wish {
+  fill: #faf76a;
+}
+
+.deal-wish-svg.wish:hover {
+  fill: #ffffff;
+}
+
+.deal-wish-svg.noWish {
+  fill: #ffffff;
+}
+
+.deal-wish-svg.noWish:hover {
+  fill: #faf76a;
+}

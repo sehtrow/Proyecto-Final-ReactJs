@@ -1,0 +1,17 @@
+.logo {
+  margin-left: 5px;
+}
+
+.logo-img {
+  color: #00a9e6;
+}
+
+.footer {
+  bottom: 0;
+  left: 0;
+  padding: 20px 0;
+  position: fixed;
+  right: 0;
+  background-color: #efefef;
+  text-align: center;
+}
